@@ -11,7 +11,7 @@
 <body>
     <header>
         <h2 id="top">Welcome to Luigi's Italian Restaurant!</h2>
-        <h1 id="top1">FoodShop</h1>
+        <h1 id="top1">Our FoodShop</h1>
     </header>
     <hr>
     <nav id="navbar">
