@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <h1 id="top">Online</h1>
+        <h2 id="top">Welcome to Luigi's Italian Restaurant!</h2>
         <h1 id="top1">FoodShop</h1>
     </header>
     <hr>
