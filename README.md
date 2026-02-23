@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1 id="top">Welcome TO Our FoodShop!</h1>
+        <h1 id="top">Welcome To Our FoodShop!</h1>
         <h1 id="top1">Order Online!</h1>
     </header>
     <hr>
