@@ -13,9 +13,9 @@
         <h1 id="top1">Luigi's Italian Restaurant</h1>
 
         <!-- Homepage Image -->
-        <h2>
-            <img src="1.png" alt="Luigi's Italian Restaurant Homepage Image" width="400">
-        </h2>
+        <img src="homepage image 1.png"
+             alt="Luigi's Italian Restaurant Homepage Image"
+             width="400">
 
         <h2 id="top">Welcome to Luigi's Italian Restaurant!</h2>
     </header>
@@ -24,10 +24,10 @@
 
     <nav id="navbar">
         <ul id="navcontent">
-            <li><a href="home.html">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="menu.html">Menu</a></li>
-            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Menu</a></li>
+            <li><a href="#">Contact Us</a></li>
         </ul>
     </nav>
 
