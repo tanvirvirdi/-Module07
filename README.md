@@ -1,5 +1,3 @@
-<!-- Filename - index.html-->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,14 +10,15 @@
     <header>
         <h2 id="top">Welcome to Luigi's Italian Restaurant!</h2>
         <h1 id="top1">Our FoodShop</h1>
+        <h1>/h1>
     </header>
     <hr>
     <nav id="navbar">
       <img src="">
         <ul id="navcontent">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Menu</a></li>
+            <li><a href="home.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="menu.html">Menu</a></li>
             <li><a href="contact.html">ContactUs</a></li>
         </ul>
     </nav>
