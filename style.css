@@ -1,1 +1,35 @@
+/* 1. General Page Colors */
+body {
+    font-family: 'Ubuntu Mono', monospace; /* Required CSS font */
+    background-color: #f5f5dc; /* This is the "Beige" background color */
+    color: #4a4a4a; /* A soft dark gray for text that looks good with beige */
+    margin: 0;
+    text-align: center;
+}
 
+/* 2. Navigation Bar */
+#navcontent {
+    list-style-type: none;
+    background-color: #5d4037; /* A deep cocoa brown for contrast */
+    padding: 15px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#navcontent li a {
+    color: #f5f5dc; /* Beige text for the links */
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0 20px;
+}
+
+/* 3. Button Color */
+.btn {
+    background-color: #8b0000; /* A dark red "Italian" color for buttons */
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 5px; /* Simple rounded corners */
+    cursor: pointer;
+}
