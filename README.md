@@ -29,7 +29,7 @@
         </div>
     </div>
     <hr>
-    <h1 id="top3">Featured Products</h1>
+    <h1 id="top3">Our Featured Products!</h1>
     <li>Margherita Pizza</li>
     <li>Classic Lasagna</li>
     <li>Fettuccine Alfredo</li>
