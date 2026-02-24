@@ -2,6 +2,7 @@
 <html lang="en">
   <h1> Luigi's Italian Restaurant </h1>
   <img src="homepage image 1.png">
+  <img scr="FINAL-logo.png">
 <head>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap"
