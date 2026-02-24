@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
   <h1> Luigi's Italian Restaurant </h1>
-  <img src="FINAL Logo.jpg">
   <img src="homepage image 1.png">
 <head>
     <link rel="stylesheet" href="style.css">
