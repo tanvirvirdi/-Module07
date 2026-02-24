@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<style.css/>
 <html lang="en">
   <h1> Luigi's Italian Restaurant </h1>
   <img src="FINAL-Logo.jpg">
