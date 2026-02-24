@@ -24,7 +24,8 @@
       <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240711123257/jpeg-optimizer_2151336570.jpg">
     </nav>
     <div id="container1">
-       <p>Welcome to <strong>Luigi’s Italian Restaurant,</strong>, where we bring the authentic flavors of Italy straight to your table! Our menu features a wide selection of handcrafted pasta, wood-fired pizzas, and classic entrees made with the freshest ingredients. Whether you are looking for affordable family dining or premium chef specialties, our transparent prices ensure you get the best value for every meal. Don't forget to check out our daily specials for unique seasonal dishes and limited-time discounts that make every visit a new culinary adventure.</p>
+      <h2>Our Resturant Values</h2>
+       <p>Welcome to <strong>Luigi’s Italian Restaurant! </strong>, where we bring the authentic flavors of Italy straight to your table! Our menu features a wide selection of handcrafted pasta, wood-fired pizzas, and classic entrees made with the freshest ingredients. Whether you are looking for affordable family dining or premium chef specialties, our transparent prices ensure you get the best value for every meal. Don't forget to check out our daily specials for unique seasonal dishes and limited-time discounts that make every visit a new culinary adventure.</p>
             </div>
         </div>
     </div>
@@ -37,7 +38,6 @@
     <li>Classic Lasagna</li>
     <li>Fettuccine Alfredo</li>
    
-    <footer>Copyright © 2020-2021 OnlineFoodShop.
-        All Rights are reserved</footer>
+    <footer>Copyright © 2020-2021 OnlineFoodShop. All Rights are reserved</footer>
 </body>
 </html>
