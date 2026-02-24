@@ -28,17 +28,15 @@
             </div>
         </div>
     </div>
+      <h1><strong><button class="btn">Place your order from our Featured Products!</button></strong></h1>
+        </div>
+    </div>
     <hr>
     <h1 id="top3">Our Featured Products!</h1>
     <li>Margherita Pizza</li>
     <li>Classic Lasagna</li>
     <li>Fettuccine Alfredo</li>
    
-  <div id="container4">
-        <div id="row4">
-            <strong><button class="btn">ORDER NOW</button></strong>
-        </div>
-    </div>
     <footer>Copyright © 2020-2021 OnlineFoodShop.
         All Rights are reserved</footer>
 </body>
