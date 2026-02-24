@@ -5,8 +5,7 @@
   <img scr="FINAL logo.jpg">
 <head>
     <link rel="stylesheet" href="style.css">
-    <link
-        href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap"
         rel="stylesheet">
 </head>
 <body>
@@ -31,15 +30,13 @@
     </div>
     <hr>
     <h1 id="top3">Featured Products</h1>
-    <div id="container4">
+    <li>Margherita Pizza</li>
+    <li>Classic Lasagna</li>
+    <li>Fettuccine Alfredo</li>
+   
+  <div id="container4">
         <div id="row4">
-            <button class="btn">ORDER NOW</button>
-        </div>
-        <div id="row5">
-            <button class="btn">ORDER NOW</button>
-        </div>
-        <div id="row6">
-            <button class="btn">ORDER NOW</button>
+            <strong><button class="btn">ORDER NOW</button></strong>
         </div>
     </div>
     <footer>Copyright © 2020-2021 OnlineFoodShop.
