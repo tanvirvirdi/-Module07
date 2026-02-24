@@ -2,7 +2,8 @@
 <style.css/>
 <html lang="en">
   <h1> Luigi's Italian Restaurant </h1>
-  <img scr="FINAL logo.jpg">
+  <img src="FINAL logo.jpg">
+  <img src="canva-logo.jpg">
 <head>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap"
